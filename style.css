@@ -27,8 +27,6 @@ html, body {
     background: rgba(3,3,3,0.80);
     overflow: hidden;
     height: 100%;
-    -moz-opacity: 20%;
-    -webkit-opacity: 20%;
     z-index: 2;
 }
 
